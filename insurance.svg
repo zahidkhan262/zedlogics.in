@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Insurance PegaLogics </title>
+    <desc>Created with Sketch.</desc>
+    <g id="Insurance-NFX-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(17.000000, 28.000000)" fill-rule="nonzero" stroke-width="5">
+            <path d="M135,42.75 L135,4 C135,1.790861 133.209139,-1.29191683e-13 131,-1.28785871e-13 L34.75,-1.27897692e-13 C32.540861,-1.2749188e-13 30.75,1.790861 30.75,4 L30.75,140 C30.75,142.209139 32.540861,144 34.75,144 L130.25,144 C132.459139,144 134.25,142.209139 134.25,140 L134.25,119.25" id="Path" stroke="#ffffff" transform="translate(82.875000, 72.000000) scale(-1, 1) translate(-82.875000, -72.000000) "></path>
+            <polyline id="Path" stroke="#ffffff" points="42.75 113.214844 42.75 132.75 99 132.75 123.75 110.25 123.75 15.75 110.265625 15.75"></polyline>
+            <polyline id="Path" stroke="#ffffff" points="55.3144531 15.75 42.75 15.75 42.75 47"></polyline>
+            <path d="M56.25,0 L56.25,22.5 C56.25,23.742 57.258,24.75 58.5,24.75 L108,24.75 C109.242,24.75 110.25,23.742 110.25,22.5 L110.25,0 L56.25,0 Z" id="Path" stroke="#45bb09"></path>
+            <g id="Group" transform="translate(55.000000, 39.250000)" stroke="#ffffff">
+                <path d="M46.25,71 L68.75,71 L44,93.5 L44,73.25 C44,72.008 45.008,71 46.25,71 Z" id="Path"></path>
+                <path d="M16.5,45.1542969 L40,45.1542969" id="Path-2"></path>
+                <path d="M13,60.0390625 L28.25,60.0390625" id="Path-26"></path>
+                <path d="M0,0.5 L55.375,0.5" id="Path-26"></path>
+                <path d="M20.625,15.3847656 L55.375,15.3847656" id="Path-26-Copy"></path>
+                <path d="M23.5,30.2695312 L55.375,30.2695312" id="Path-26-Copy-2"></path>
+            </g>
+            <path d="M67.5,60.75 L64.458,77.98725 C62.07525,91.48725 54.648,103.5765 43.67925,111.8025 L33.75,119.25 L23.52825,111.483 C12.7035,103.25925 5.37975,91.25325 3.01725,77.8635 L0,60.75 L33.75,42.75 L67.5,60.75 Z" id="Path" stroke="#45bb09"></path>
+            <path d="M19,82.6640625 C24.7382812,90.6640625 27.6074219,94.6640625 27.6074219,94.6640625 L51.0644531,68" id="Path-25" stroke="#ffffff"></path>
+        </g>
+    </g>
+</svg>
